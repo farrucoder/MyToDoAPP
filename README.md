@@ -1,6 +1,6 @@
 # TODO App
 
-Everyone want to write and remeber its task this app help you for your problem 
+Everyone want to write and remember its task this app help you for your problem 
 
 ## UI Screen
 
