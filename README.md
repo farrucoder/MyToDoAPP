@@ -1,16 +1,11 @@
-# todopart02
+# TODO App
 
-A new Flutter project.
+Everyone want to write and remeber its task this app help you for your problem 
 
-## Getting Started
+## UI Screen
 
-This project is a starting point for a Flutter application.
+![ToDoApp](https://github.com/farrucoder/MyToDoAPP/assets/114243390/7b566974-f020-4cb3-bb96-8156ccdcb904)
 
-A few resources to get you started if this is your first Flutter project:
+![ToDOAppAddedd](https://github.com/farrucoder/MyToDoAPP/assets/114243390/3e4a5875-a209-48ec-840d-a6e7d902da9a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click here to jump into the app => https://staywithfarru.web.app
